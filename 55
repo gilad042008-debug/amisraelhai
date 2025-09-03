@@ -1,0 +1,9 @@
+streamlit-chart-bot/
+├── app.py
+├── analysis.py
+├── ml_model.py
+├── utils.py
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+└── README.md
